@@ -1,3 +1,5 @@
+#this code is took from siraj raval
+
 """Functions for downloading and reading MNIST data."""
 import gzip
 import os
